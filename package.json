@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/gyanuu/Talent-Iq.git"
   },
+  "engines":{
+    "node":">=22.0.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
